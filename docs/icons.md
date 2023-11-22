@@ -38,11 +38,13 @@
 | ![multiple-items](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/multiple-items.svg) | multiple-items |
 | ![notice](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/notice.svg) | notice |
 | ![number](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/number.svg) | number |
+| ![numbered-list](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/numbered-list.svg) | numbered-list |
 | ![paragraph](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/paragraph.svg) | paragraph |
 | ![paragraphs](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/paragraphs.svg) | paragraphs |
 | ![people](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/people.svg) | people |
 | ![person-solo](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/person-solo.svg) | person-solo |
 | ![person](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/person.svg) | person |
+| ![podcast](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/podcast.svg) | podcast |
 | ![quote](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/quote.svg) | quote |
 | ![radio](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/radio.svg) | radio |
 | ![sign-up](https://github.com/octavenz/wagtailextraicons/blob/master/lib/icons/sign-up.svg) | sign-up |
